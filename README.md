@@ -1,6 +1,6 @@
 # ReAct Agent with Custom Tools
 
-A small LangGraph project that demonstrates a ReAct agent using a local Ollama model, three custom tools, and conversation memory.
+A LangGraph project that demonstrates a ReAct agent using a local Ollama model, three custom tools, and conversation memory.
 
 The agent receives a user question, decides whether a tool is needed, executes the selected tool when necessary, observes the result, and returns a final answer. The interactive program prints this process so the ReAct loop is visible during a demonstration.
 
